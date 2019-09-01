@@ -13,7 +13,7 @@ Create table called members
 • XAMPP Server
 
 # server.php
-On server.php there is a php code that connects to the database and all server side programming codes.
+On server.php there is a php code that connects to the database and all server side programming codes to register, login and logout.
 
 # errors
 This is a php code that displays errors if 1) User already exists, 2) if password is less than 8 characters, 3) if two passwords do not match, 4) if passowrd or email is wrong during login process.
